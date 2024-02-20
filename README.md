@@ -7,4 +7,4 @@ In cloud data storage, the deduplication technology plays a major role in the vi
 
 # Using Algorithms
 - Rabin (Content Based Chunking Algorithms)
-- RAM (Rapid Asymmetric Maximum) - It is also Content Based Chunking Algorithms.
+- RAM (Rapid Asymmetric Maximum) - It is also Content Based Chunking Algorithm.
